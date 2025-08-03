@@ -1,0 +1,36 @@
+critique_evaluation_matrix:
+  dimensions:
+    - name: Structural Relevance
+      question: Does the critique address something actually present in the content?
+      signal_legitimacy: Direct quotes, visuals, or design choices are cited.
+      signal_projection: Abstract associations or historical echoes dominate.
+
+    - name: Intent Alignment
+      question: Does the critique engage with the creator’s likely intent?
+      signal_legitimacy: Acknowledges artistic or commercial goals, then critiques impact.
+      signal_projection: Assumes malicious or ideological intent without evidence.
+
+    - name: Pattern Recognition
+      question: Is the critique part of a broader pattern of exclusion or harm?
+      signal_legitimacy: Connects dots across multiple examples with clarity.
+      signal_projection: Uses isolated cases to generalize systemic guilt.
+
+    - name: Semantic Precision
+      question: Are terms used with clarity and consistency?
+      signal_legitimacy: Words like “eugenics,” “supremacy,” or “colonial” are defined and contextualized.
+      signal_projection: Terms are used as emotional triggers or ideological shorthand.
+
+    - name: Emotional Proportionality
+      question: Does the emotional tone match the stakes?
+      signal_legitimacy: Anger or concern is grounded in real harm or exclusion.
+      signal_projection: Outrage is disproportionate to the content’s actual impact.
+
+    - name: Interpretive Humility
+      question: Does the critique allow for alternative readings?
+      signal_legitimacy: Recognizes ambiguity or complexity.
+      signal_projection: Frames dissent as complicity or ignorance.
+
+    - name: Outcome Orientation
+      question: Does the critique propose constructive change?
+      signal_legitimacy: Offers alternatives, reframing, or dialogue.
+      signal_projection: Seeks moral victory or tribal alignment.
