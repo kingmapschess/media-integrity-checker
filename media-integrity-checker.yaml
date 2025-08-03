@@ -1,0 +1,40 @@
+media-integrity-checker:
+  core_principle:
+    description: >
+      Performative language is the baseline mode of media distortion.
+      It prioritizes appearance over substance, signaling over meaning.
+
+  drivers:
+    - name: Ignorance
+      effect: Sincere but shallow; often parrots cultural scripts
+    - name: Manipulation
+      effect: Strategic and coercive; aims to control or mislead
+    - name: Defensiveness
+      effect: Evasive and protective; shields vulnerability
+    - name: Habitual
+      effect: Automatic and normalized; linguistic muscle memory
+
+  diagnostic_dimensions:
+    - name: Cognitive Load
+      description: Uses complexity to obscure lack of substance
+    - name: Aesthetic Coherence
+      description: Sounds elegant or profound but lacks semantic integrity
+    - name: Structural Integrity
+      description: Collapses under logical scrutiny
+    - name: Mimetic Density
+      description: Built from recycled buzzwords and cultural tropes
+    - name: Contradiction Tolerance
+      description: Glosses over internal contradictions
+    - name: Emotional Leverage
+      description: Bypasses logic by triggering emotional reflexes
+    - name: Authority Cloaking
+      description: Hides behind credentials, acronyms, or borrowed prestige
+    - name: Semantic Drift
+      description: Uses terms that have lost their original meaning
+    - name: Temporal Displacement
+      description: Evades present accountability by invoking vague futurity or idealized past
+    - name: Empathy Simulation
+      description: Mimics emotional resonance without genuine engagement
+    - name: Symbolic Saturation
+      description: Overuses symbols to signal virtue without structural change
+    - name
